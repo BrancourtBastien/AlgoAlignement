@@ -1,0 +1,12 @@
+*****Version 3*****
+-Possibilité de choisir les deux séquences à aligner à partir du fichier fasta en utilisant l'option 'r' dans la console.
+-(Choix donné à l'utilisateur des pénalités en utilisant la fonction 'c' dans la console) bugué pour le moment : dans certains cas où la pRemp est supérieure à la pSup, l'algo tourne à l'infini
+-utiliser l'option help au lieu du nom de fichier dans la console affiche une liste des options possibles
+
+
+*****Version 2*****
+-Affichage des deux séquences alignées.
+
+
+*****Version 1*****
+-Lecture des deux premières séquences d'un fichier fasta passé en paramètre par la console et affichage de leur distance d'édition.
