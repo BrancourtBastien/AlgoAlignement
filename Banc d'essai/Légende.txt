@@ -1,0 +1,8 @@
+1 - Utilisation de séquences triviales pour tester les fonctionnalités de base.
+2 - Test de l'influence d'un changement des pénalités.
+3 - Utilisation d'un fichier contenant plus de deux séquences triviales pour tester l'option de recherche de séquences.
+4 - 1) Détection d'un bug avec les séquences triviales 'ABCD' et 'BCD'.
+    2) Affichage de la matrice pour déterminer le problème.
+    3) Réglage du bug dans le cas où la seconde séquence est un suffixe de la première.
+5 - Test de l'algorithme avec des séquences plus longues d'un fichier d'exemple trouvé sur internet.
+6 - Détection d'un bug dans le cas où la pénalité de remplacement est plus du double de celle pour un saut.
